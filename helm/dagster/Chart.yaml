@@ -1,7 +1,7 @@
 ---
 apiVersion: v2
 name: dagster
-version: 0.0.1-dev
+version: 1.12.8
 kubeVersion: ">= 1.18.0-0"
 description: The data orchestration platform built for productivity.
 type: application
@@ -34,4 +34,4 @@ maintainers:
     email: support@dagsterlabs.com
     url: https://dagster.io/about
 icon: https://dagster.io/images/brand/logos/dagster-primary-mark.png
-appVersion: dev
+appVersion: 1.12.8
